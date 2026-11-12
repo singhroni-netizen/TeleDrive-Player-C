@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "demo-001",
+      "title": "Example Sci-Fi Film (2024).mp4",
+      "url": "https://storage.example.org/media/example-film.mp4",
+      "mime_type": "video/mp4",
+      "size": 734003200,
+      "poster": "https://images.example.org/example-film-poster.jpg",
+      "description": "Replace this example with a media URL you own or are authorized to access.",
+      "year": 2024
+    }
+  ]
+}
